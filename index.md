@@ -9,6 +9,10 @@ Seja bem vindo ao livro de ECA 1 e seus arquivos digitais. Para baixar os arquvi
 #### Arquivos com extensão .dwg `Em elaboração`
 
 #### Link dos vídeos de YT
+##### Capítulo 1
+###### [Figura 1.15](https://www.youtube.com/watch?v=YS3Lfw-Y-fo)
+###### [Figura 1.17](https://www.youtube.com/watch?v=YlydLfMICU4)
+###### [Figura 1.19](https://www.youtube.com/watch?v=bhr-TrH2H94&t=3s)
 ##### Capítulo 2
 ###### [Figura 2.37](https://www.youtube.com/watch?v=AHacw1yVdnU)
 ###### [Figura 2.38](https://www.youtube.com/watch?v=dhjegZ2pO2o)
